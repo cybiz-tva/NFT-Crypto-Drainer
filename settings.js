@@ -4,8 +4,8 @@ const infuraId = "cf6c2d9fd0bf4cacb4143a30b39ca615"     // Infuria Project ID | 
 const moralisApi = "GfqUJ2LKsaYRvCkIDn2BYKdOf7dXdxLAHXG2wSkT7bntCewcHSODQtA9yX9jUOM7"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Tec.sellix.io",
-    title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "cybiz testing",
+    title: "for you", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "XX.XX.XXXX", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
