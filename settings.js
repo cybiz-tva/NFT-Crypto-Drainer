@@ -5,7 +5,7 @@ const moralisApi = "GfqUJ2LKsaYRvCkIDn2BYKdOf7dXdxLAHXG2wSkT7bntCewcHSODQtA9yX9j
 
 const collectionInfo = {
     name: "cybiz testing",
-    title: "for you", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "for Haylana", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "XX.XX.XXXX", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
